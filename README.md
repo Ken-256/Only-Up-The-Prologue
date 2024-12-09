@@ -1,5 +1,5 @@
 # GroupProject
 
-Game: Bootleg Only Up
+Game: Only Up: The Prologue
 
 Developed with Unreal Engine 5
